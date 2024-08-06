@@ -1,4 +1,5 @@
 🏦 Loan Prediction Project
+
 Welcome to the Loan Prediction Project repository! This project focuses on predicting the approval of loan applications using machine learning techniques. Below, you'll find an overview of the project, its structure, and how to get started.
 
 🚀 Project Overview
