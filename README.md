@@ -10,19 +10,29 @@ The Loan Prediction project aims to predict whether a loan application will be a
 
 The dataset used in this project consists of information about loan applicants, including:
   Applicant's income
+  
   Credit history
+  
   Loan amount
+  
   Loan term
+  
   Marital status
+  
   Education level
+  
   Property area
+
 Dataset Size: 614 records
 Features: 13 (including the target variable)
 Target Variable: Loan Status (Approved/Not Approved)
 
 🎯 Results
 
-The model achieved an impressive accuracy of 97.73% in predicting the loan approval status. Below is a snapshot of the performance metrics:
+The model achieved an impressive accuracy of 97.73% in predicting the loan approval status.
+  
   Precision: 0.98
+  
   Recall: 0.97
+  
   F1-Score: 0.98
